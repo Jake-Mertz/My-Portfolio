@@ -626,6 +626,23 @@ section {
   margin-bottom: 30px;
 }
 
+.fb-image-container {
+  display: flex;
+  justify-content: center;
+}
+
+/* .portfolio-item {
+  max-height: 200px;
+} */
+
+/* .port-image {
+  max-height: 189px;
+} */
+
+.fb-img {
+  max-width: 19rem;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 35px auto;
