@@ -30,12 +30,26 @@ h1, h2, h3, h4, h5, h6 {
 # Custom
 ---------------------------------------------------------------- */
 
-.resume-button {
+/* .resume-button {
   padding: 5px 15px;
   font-size: 16px;
   border-radius: 16px;
   background-color: #149ddd;
   color: white;
+  margin-top: 5%;
+} */
+
+.resume-button {
+  padding: 4px 11px;
+  font-size: 14px;
+  border-radius: 5px;
+  background-color: #149ddd;
+  color: white;
+  /* margin-top: 5%; */
+}
+
+.button-spacer {
+  height: 3%;
 }
 
 .skills-display {
