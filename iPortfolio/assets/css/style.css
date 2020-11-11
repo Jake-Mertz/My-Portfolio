@@ -181,6 +181,78 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
+@media only screen and (max-width: 2000px) {
+  .email-contact {
+    padding-left: 32%;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .email-contact {
+    padding-left: 3%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .email-contact {
+    padding-left: 3.4%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .email-contact {
+    padding-left: 3.8%;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .email-contact {
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .email-contact {
+    padding-left: 4.7%;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .email-contact {
+    padding-left: 5.1%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .email-contact {
+    padding-left: 5.8%;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .email-contact {
+    padding-left: 6.9%;
+  }
+}
+
+@media only screen and (max-width: 332px) {
+  .email-contact {
+    padding-left: 25.7%;
+  }
+}
+
+@media only screen and (max-width: 315px) {
+  .email-contact {
+    padding-left: 26.5%;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .email-contact {
+    padding-left: 28%;
+  }
+}
+
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
