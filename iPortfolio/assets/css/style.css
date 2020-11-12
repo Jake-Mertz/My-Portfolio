@@ -92,6 +92,79 @@ h1, h2, h3, h4, h5, h6 {
   color: #173b6c;
 } */
 
+/* @media only screen and (max-width: 2000px) {
+  .contact-phone-number {
+    padding-left: 32%;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .contact-phone-number {
+    padding-left: 3%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .contact-phone-number {
+    padding-left: 3.4%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .contact-phone-number {
+    padding-left: 3.8%;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .contact-phone-number {
+    padding-left: 4%;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .contact-phone-number {
+    padding-left: 4.7%;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  .contact-phone-number {
+    padding-left: 5.1%;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .contact-phone-number {
+    padding-left: 5.8%;
+  }
+}
+
+@media only screen and (max-width: 350px) {
+  .contact-phone-number {
+    padding-left: 6.9%;
+  }
+}
+
+@media only screen and (max-width: 332px) {
+  .contact-phone-number {
+    padding-left: 25.7%;
+  }
+}
+
+@media only screen and (max-width: 315px) {
+  .contact-phone-number {
+    padding-left: 26.5%;
+  }
+}
+
+@media only screen and (max-width: 300px) {
+  .contact-phone-number {
+    padding-left: 28%;
+  }
+} */
+
+
 @media only screen and (max-width: 995px) {
   .contact-item {
     margin: 15px 3%;
